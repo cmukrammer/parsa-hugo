@@ -7,7 +7,7 @@ title = "Parsa Hugo | Personal Blog Template"
 [[menu.main]]
 URL = "about"
 name = "About"
-url = "https://master.d3pyrkyy6u09og.amplifyapp.com/about/"
+url = "about/"
 weight = 1
 [[menu.main]]
 URL = "contact"
