@@ -5,11 +5,11 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Parsa Hugo | Personal Blog Template"
 [[menu.main]]
-URL = "about"
+URL = "about/"
 name = "About"
 weight = 2
 [[menu.main]]
-URL = "contact"
+URL = "contact/"
 name = "Contact"
 weight = 3
 [outputs]
