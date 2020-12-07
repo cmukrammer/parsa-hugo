@@ -16,9 +16,15 @@ type = "post"
 
 **GUMGUM Beer & Wings**提供了工程師們下了班不用急著回家宅的新處所，可以小酌片刻，說不定喝著喝著戀愛也跟著來了。
 
-![](/images/s__15007827.jpg)**GUMGUM Beer & Wings內科店**的MENU跟**信義店**沒有太多差異，但內科店多了**窯烤坑**。
+![](/images/s__15007827.jpg)**GUMGUM Beer & Wings內科店**MENU上的Slogan「**Not only beer&wings**」，沒錯！內科店多了一個貨真價實的**窯烤坑**。
 
-![](/images/s__15007826.jpg)以前店內提供的是用雞胸肉充當PIZZA餅皮的方式，這次**GUMGUM Beer & Wings內科店**多了「真正的PIZZA」。
+![](/images/s__15007826.jpg)以前店內提供的是用雞胸肉充當PIZZA餅皮的方式，這次**GUMGUM Beer & Wings內科店**餐點品項多了「真正的PIZZA」。  
+  
+  
+![](/images/s__15007840.jpg)  
+這次我們點了**金沙漁夫**380$(NTD)，有鯷魚、蟹肉、透抽，用料十足而且鹹蛋黃炒海鮮有夠好吃的，沒想到被做成PIZZA後，也不失美味。
+
+但有炒過金沙料理的人，應該很清楚
 
 ![](/images/s__15007931.jpg)
 
