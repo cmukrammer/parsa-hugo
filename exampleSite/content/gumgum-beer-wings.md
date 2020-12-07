@@ -38,12 +38,12 @@ GUMGUM內科店這個空間，在我看來其實更適合提供周邊公司定�
 
 信義店有投影設備，這裡不知道有沒有，但我想如果有更多的公司企業要求，應該也不難有這樣的設備提供！
 
-｜西湖站 內科美食｜
+｜**西湖站2號 GUMGUM Beer & Wings 雞翅酒吧內科店**｜
 
-地址｜台北市大同區長安西路220巷17號  
- 交通｜台北車站Y13出站出來後步行約8分鐘  
- 電話｜0988 051 825  
- 臉書｜[https://zh-tw.facebook.com/DadaochengBraisedporkonrice](https://zh-tw.facebook.com/DadaochengBraisedporkonrice "https://zh-tw.facebook.com/DadaochengBraisedporkonrice")
+地址｜台北市內湖區基湖路3巷68號  
+ 交通｜西湖站2號出站步行約5分鐘  
+ 電話｜02-26599478  
+ 臉書｜[https://www.facebook.com/gumgumtw](https://www.facebook.com/gumgumtw "https://www.facebook.com/gumgumtw")
 
 12/1（二）起每個週二
 
