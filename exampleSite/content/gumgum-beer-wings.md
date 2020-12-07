@@ -8,16 +8,17 @@ title = "西湖美食 GUMGUM Beer & Wings 雞翅酒吧內科店 內科美食"
 type = "post"
 
 +++
-夜晚aka.週末的空城，一個讓人下了班就想逃離的內湖科學園區。
-
+夜晚aka.週末的空城，一個讓人下了班就想逃離的內湖科學園區。  
 內科的工程師們有福了！  
-![](/images/s__15007818.jpg)
-
-沒想到GUMGUM Beer & Wings，居然在西湖內科開了分店，除了Lazy Point，還多了GUMGUM Beer & Wings這個新選擇！
+![](/images/s__15007818.jpg)沒想到**GUMGUM Beer & Wings**，居然在西湖內科開了分店，除了Lazy Point，還多了**GUMGUM Beer & Wings**這個新選擇！
 
 ![](/images/s__15007829.jpg)
 
-GUMGUM Beer & Wings提供了工程師們下了班不用急著回家宅的新處所，可以小酌片刻，說不定喝著喝著戀愛也跟著來了。
+**GUMGUM Beer & Wings**提供了工程師們下了班不用急著回家宅的新處所，可以小酌片刻，說不定喝著喝著戀愛也跟著來了。
+
+![](/images/s__15007827.jpg)**GUMGUM Beer & Wings內科店**的MENU跟**信義店**沒有太多差異，但內科店多了**窯烤坑**。
+
+![](/images/s__15007826.jpg)以前店內提供的是用雞胸肉充當PIZZA餅皮的方式，這次**GUMGUM Beer & Wings內科店**多了「真正的PIZZA」。
 
 ![](/images/s__15007931.jpg)
 
