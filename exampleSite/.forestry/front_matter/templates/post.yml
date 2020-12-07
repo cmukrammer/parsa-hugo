@@ -28,4 +28,5 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
+- exampleSite/content/gumgum-beer-wings.md
 - exampleSite/content/可以用中文檔名嗎.md
