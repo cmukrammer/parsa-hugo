@@ -9,13 +9,11 @@ type = "post"
 
 +++
 夜晚aka.週末的空城  
-一個讓人下了班就想逃離的內湖科學園區
+一個讓人下了班就想逃離的內湖科學園區  
+內科的工程師們有福了！  
+![](/images/s__15007818.jpg)
 
-內科的工程師們有福了！
-
-沒想到GUMGUM Beer & Wings，居然在西湖內科開了分店！
-
-除了Lazy Point，還多了GUMGUM Beer & Wings這個新選擇！
+沒想到GUMGUM Beer & Wings，居然在西湖內科開了分店，除了Lazy Point，還多了GUMGUM Beer & Wings這個新選擇！
 
 GUMGUM Beer & Wings提供了工程師們下了班不用急著回家宅的新處所，可以小酌片刻，說不定喝著喝著戀愛也跟著來了。
 
