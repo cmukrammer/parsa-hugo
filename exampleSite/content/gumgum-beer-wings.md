@@ -41,6 +41,7 @@ GUMGUM內科店這個空間，在我看來其實更適合提供周邊公司定�
 ｜**西湖站2號 GUMGUM Beer & Wings 雞翅酒吧內科店**｜ 
 
 地址｜台北市內湖區基湖路3巷68號  
- 交通｜西湖站2號出站步行約5分鐘  
- 電話｜02-26599478  
- 臉書｜[https://www.facebook.com/gumgumtw](https://www.facebook.com/gumgumtw "https://www.facebook.com/gumgumtw") 營業時間｜週二：11:00至15:30；17:30至23:00(週二15:30至17:30為員工開會訓練時間，此時段不提供服務)，週一及週三至週日：11:00至16:30；17:30至23:00
+交通｜西湖站2號出站步行約5分鐘  
+電話｜02-26599478  
+營業時間｜週二：11:00至15:30；17:30至23:00(週二15:30至17:30為員工開會訓練時間，此時段不提供服務)，週一及週三至週日：11:00至16:30；17:30至23:00  
+臉書｜[https://www.facebook.com/gumgumtw](https://www.facebook.com/gumgumtw "https://www.facebook.com/gumgumtw") 
