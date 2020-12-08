@@ -10,7 +10,7 @@ type = "post"
 +++
 夜晚aka.週末的空城，一個讓人下了班就想逃離的內湖科學園區。
 
-![](/images/s__15007818.jpg)內科工程師們有福了！沒想到**GUMGUM** 居然在西湖內科開了分店，除了Lazy Point，還多了**GUMGUM Beer & Wings**這個新選擇，工程師們下了班可以不用急著回家宅，可以到**GUMGUM**小酌片刻，說不定喝著喝著戀愛也跟著來了。
+![](/images/s__15007818.jpg)內科工程師們有福了！沒想到**GUMGUM** 居然在西湖內科開了分店，除了Lazy Point，還多了**GUMGUM Beer & Wings**這家新選擇。工程師們下了班，可以不用急著回家宅，可以到**GUMGUM**小酌片刻，說不定喝著喝著戀愛也跟著來了。
 
 ![](/images/s__15007827.jpg)  
 ![](/images/s__15007826.jpg)**內科店**MENU上的新Slogan「**Not only beer&wings**」。 沒錯！這次內科店多了一個貨真價實的**窯烤坑**，以前店內提供的是用雞胸肉充當PIZZA餅皮的方式，這次**GUMGUM Beer & Wings內科店**餐點品項多了「真正的PIZZA」。
