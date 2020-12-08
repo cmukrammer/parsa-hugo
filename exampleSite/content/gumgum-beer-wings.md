@@ -84,7 +84,7 @@ PIZZA點了**金沙漁夫**380$(NTD)，有**鯷魚、蟹肉、透抽** 用料十
 
 ![](/images/s__15007824.jpg)
 
-如同GUMGUM內科店MENU寫得「**Not only beer&wings**」，also「**Not only restaurant**」，在這個空間GUMGUM創造了更多的可能性。
+「**Not only beer&wings**」，also「**Not only restaurant**」，GUMGUM在這個空間創造了更多的可能性。
 
 ｜**西湖站2號 GUMGUM Beer & Wings 雞翅酒吧內科店**｜
 
