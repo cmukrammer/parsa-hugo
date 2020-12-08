@@ -14,7 +14,7 @@ type = "post"
 
 ![](/images/s__15007829.jpg)
 
-**GUMGUM Beer & Wings**提供了工程師們下了班不用急著回家宅的新處所，可以小酌片刻，說不定喝著喝著戀愛也跟著來了。**內科店**MENU上的Slogan「**Not only beer&wings**」。
+**GUMGUM Beer & Wings**提供了工程師們下了班不用急著回家宅的新處所，可以小酌片刻，說不定喝著喝著戀愛也跟著來了。**內科店**MENU上的新Slogan「**Not only beer&wings**」。
 
 ![](/images/s__15007827.jpg)  
 ![](/images/s__15007826.jpg)這次內科店多了一個貨真價實的**窯烤坑**。以前店內提供的是用雞胸肉充當PIZZA餅皮的方式，這次**GUMGUM Beer & Wings內科店**餐點品項多了「真正的PIZZA」。
