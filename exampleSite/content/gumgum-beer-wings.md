@@ -80,9 +80,7 @@ PIZZA點了**金沙漁夫**380$(NTD)，有**鯷魚、蟹肉、透抽** 用料十
 
 ![](/images/s__15007832.jpg)GUMGUM信義店過去幾年已穩定了餐飲供給水準，我覺得內科店想做的不單僅是餐飲了，在這個科技產業聚集的地方，提供優質的餐飲已成為基礎，空間定義上更適合周邊公司來定期舉辦會議、企業演講等空間應用。
 
-![](/images/s__15007824.jpg)
-
-**「Not only beer&wings」，**ALSO  「**Not only** **restaurant**」，GUMGUM在這個空間創造了更多的可能性。
+![](/images/s__15007824.jpg)**「Not only beer&wings」**，ALSO「**Not only** **restaurant**」，GUMGUM在這個空間創造了更多的可能性。
 
 ｜**西湖站2號 GUMGUM Beer & Wings 雞翅酒吧內科店**｜
 
