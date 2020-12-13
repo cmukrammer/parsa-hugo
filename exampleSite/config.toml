@@ -3,7 +3,7 @@ languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
-title = "Parsa Hugo | Personal Blog Template"
+title = "WifeFatGii Personal Blog"
 [[menu.main]]
 URL = "about"
 name = "About"
@@ -16,12 +16,12 @@ weight = 3
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = "6 rip carl Avenue CA 90733"
-author = "Themefisher"
-author_image = "images/55c938d0-ebe2-4762-969e-2fa322c8aeb4-l0-001.jpg"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+author = "WifeFatGii"
+author_image = "images/front.jpg"
+bio = "I’m a Blogger based in Taiwan. Focusing across Food and Traveling."
 contact_form_action = "#"
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
-description = "This is meta description"
+copyright = "Copyright &copy; 2020 a theme by [krammerliu.com](https://www.krammerliu.com)"
+description = "This is a WifeFatGii's personal blog"
 email = "exmaple@ymail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
@@ -29,7 +29,7 @@ layout = "2"
 logo = "images/logo.png"
 mobile = "+90 000 333 22"
 preloader = true
-search = false
+search = true
 [params.instafeed]
 access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
 enable = true
@@ -63,14 +63,17 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
-URL = "#"
+URL = "https://www.facebook.com/wifefatgiii"
 icon = "ti-facebook"
 [[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"
-[[params.social]]
-URL = "#"
-icon = "ti-linkedin"
-[[params.social]]
-URL = "#"
-icon = "ti-github"
+URL = "https://www.instagram.com/wife_fat_gii"
+icon = "ti-instagram"
+# [[params.social]]
+# URL = "#"
+# icon = "ti-twitter-alt"
+# [[params.social]]
+# URL = "#"
+# icon = "ti-linkedin"
+# [[params.social]]
+# URL = "#"
+# icon = "ti-github"
