@@ -15,21 +15,22 @@ weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "6 rip carl Avenue CA 90733"
+# address = "6 rip carl Avenue CA 90733"
 author = "WifeFatGii"
 author_image = "images/front.jpg"
 bio = "I’m a Blogger based in Taiwan. Focusing across Food and Traveling. My dream is to live like a FatGii who only eats and veg out."
 contact_form_action = "#"
-copyright = "Copyright &copy; 2020 a theme by [krammerliu.com](https://www.krammerliu.com)"
+copyright = "Copyright &copy; 2020 powered by [krammerliu.com](https://www.krammerliu.com)"
 description = "This is a WifeFatGii's personal blog"
-email = "exmaple@ymail.com"
+# email = "exmaple@ymail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 layout = "2"
-logo = "images/logo.png"
-mobile = "+90 000 333 22"
+logo = "images/logo.jpg"
+header = "images/header.jpg"
+# mobile = "+90 000 333 22"
 preloader = true
-search = true
+search = false
 [params.instafeed]
 access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
 enable = true
