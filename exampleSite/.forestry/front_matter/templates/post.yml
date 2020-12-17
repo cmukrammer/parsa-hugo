@@ -28,5 +28,6 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
+- exampleSite/content/1.md
 - exampleSite/content/gumgum-beer-wings.md
 - exampleSite/content/天山鄉土雞城｜觀音山｜.md
