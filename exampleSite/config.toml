@@ -8,10 +8,10 @@ title = "WifeFatGii Personal Blog"
 URL = "about"
 name = "About"
 weight = 2
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 3
+# [[menu.main]]
+# URL = "contact"
+# name = "Contact"
+# weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
