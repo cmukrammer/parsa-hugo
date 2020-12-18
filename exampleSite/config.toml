@@ -1,4 +1,4 @@
-baseURL = "https://master.d3pyrkyy6u09og.amplifyapp.com"
+baseURL = "https://www.wifefatgii.com"
 languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
@@ -22,7 +22,7 @@ bio = "I’m a Blogger based in Taiwan. Focusing across Food and Traveling. My d
 contact_form_action = "#"
 copyright = "Copyright &copy; 2020 powered by [krammerliu.com](https://www.krammerliu.com)"
 description = "This is a WifeFatGii's personal blog"
-# email = "exmaple@ymail.com"
+email = "wifefatgii@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 layout = "2"
