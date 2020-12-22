@@ -28,6 +28,6 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
-- exampleSite/content/8.md
 - exampleSite/content/hongji.md
 - exampleSite/content/tienshanhsiang.md
+- exampleSite/content/yangshin.md
