@@ -2,7 +2,6 @@
 categories = ["淡水信義線", "麻辣火鍋"]
 date = 2020-12-28T05:55:49Z
 description = ""
-draft = true
 image = ""
 tags = []
 title = "鼎旺麻辣鍋1號店｜無敵軟趴鳳爪ft.麻辣火鍋｜大安站4號"

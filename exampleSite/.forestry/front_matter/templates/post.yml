@@ -28,7 +28,7 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
-- exampleSite/content/1-ft.4.md
+- exampleSite/content/dingwangone.md
 - exampleSite/content/hongji.md
 - exampleSite/content/tienshanhsiang.md
 - exampleSite/content/yangshin.md
