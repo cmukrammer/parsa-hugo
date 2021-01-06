@@ -28,6 +28,7 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
+- exampleSite/content/cocobrownies-3.md
 - exampleSite/content/dingwangone.md
 - exampleSite/content/hongji.md
 - exampleSite/content/season-artisan-patissier.md
