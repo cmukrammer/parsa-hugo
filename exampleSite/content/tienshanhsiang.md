@@ -3,7 +3,7 @@ categories = ["台菜", "合菜", "觀音山"]
 date = 2020-12-18T06:27:08Z
 description = ""
 image = "/images/s__15245346.jpg"
-tags = []
+tags = ["土雞"]
 title = "天山鄉土雞城｜五股高CP質合菜餐廳家族聚餐首選｜觀音山夜景餐廳｜冬季綠竹筍之歌"
 type = "post"
 
